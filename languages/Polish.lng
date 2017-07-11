@@ -1,0 +1,21 @@
+#Comment
+msgid "test"
+msgstr "test"
+
+#: lib/error.c:116
+msgid "unknown system error"
+msgstr "Nieznany błąd systemu"
+
+#third site
+msgid "plate"
+msgstr "tablica rejestracyjna"
+
+msgid "phone"
+msgstr "telefon"
+
+msgid "mileage"
+msgstr "przebieg"
+
+msgid "etcetera"
+msgstr "itd."
+

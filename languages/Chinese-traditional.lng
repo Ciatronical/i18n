@@ -1,0 +1,24 @@
+#Comment
+msgid "test"
+msgstr "測試"
+
+#: lib/error.c:116
+msgid "unknown system error"
+msgstr "未知的系統錯誤"
+
+#third site
+msgid "plate"
+msgstr "牌照"
+
+msgid "phone"
+msgstr "電話"
+
+msgid "mileage"
+msgstr "里程"
+
+#msgid "etcetera"
+msgid "etcetera"
+msgstr "等等"
+
+#msgid "etcetera"
+#msgstr "等等"

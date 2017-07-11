@@ -1,0 +1,20 @@
+#Comment
+msgid "test"
+msgstr "Test"
+
+#: lib/error.c:116
+msgid "unknown system error"
+msgstr "Невідома помилка системи"
+
+#third site
+msgid "plate"
+msgstr "номерний знак"
+
+msgid "phone"
+msgstr "телефон"
+
+msgid "mileage"
+msgstr "пробіг"
+
+msgid "etcetera"
+msgstr "і т.д."
